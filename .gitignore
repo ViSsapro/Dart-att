@@ -1,0 +1,12 @@
+# Session data - WhatsApp login
+session/
+
+# Dependencies 
+node_modules/
+
+# Environment variables - private keys
+config.env
+
+# Logs
+*.log
+npm-debug.log*
