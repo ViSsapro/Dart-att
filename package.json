@@ -1,5 +1,5 @@
 {
-  "name": "thuhi-ofc",
+  "name": "thuhi-ofc-pairing",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,6 @@
     "@whiskeysockets/baileys": "^6.7.5",
     "@hapi/boom": "^10.0.1",
     "express": "^4.18.2",
-    "pino": "^8.17.0",
-    "axios": "latest"
+    "pino": "^8.17.0"
   }
 }
